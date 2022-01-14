@@ -1,5 +1,5 @@
 <p align=center>
-  <img height=160 src="https://github-readme-stats.vercel.app/api?username=Manuelandro&theme=dark&show_icons=true" />
+  <!-- img height=160 src="https://github-readme-stats.vercel.app/api?username=Manuelandro&theme=dark&show_icons=true" /-->
   <img height=160 src="https://github-readme-streak-stats.herokuapp.com/?user=Manuelandro&theme=dark" />
 </p>
 
