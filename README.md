@@ -4,8 +4,8 @@
 </p>
 
 
-- 🔭 I’m currently working on React frontends
-- 🌱 I’m currently learning Blockchain technologies such as Solidity, ethers, web3.js, Hardhat and more 
+- 🔭 I’m a Senior Frontend Engineer
+- 🌱 I’m currently working in the Blockchain field
 - 👯 I’m looking to collaborate
 - 📫 How to reach me: mpalma.job@gmail.com
 - 😄 Pronouns: he/him
