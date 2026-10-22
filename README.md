@@ -17,10 +17,6 @@
   · he/him
 </p>
 
-Then add two or three selected projects, each with a screenshot, one sentence explaining what it does, and demo/source links. Replace the suggested tagline with something that sounds like you.
-
-If you keep the streak card, its project now documents this embed host: Streak Stats (https://github.com/DenverCoder1/github-readme-streak-stats).
-
 <p align="center">
   <img
     height="160"
